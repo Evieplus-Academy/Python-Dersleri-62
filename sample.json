@@ -1,0 +1,17 @@
+{
+  "Adı": "Ahmet",
+  "Soyadı": "Yılmaz",
+  "Yaş": 35,
+  "Cinsiyet": "Erkek",
+  "Maaş": 5000,
+  "Departman": {
+    "Adı": "Muhasebe",
+    "Sorumlu": "Ali Bey"
+  },
+  "Yetenekler": [
+    "Muhasebe",
+    "Finans",
+    "Excel",
+    "Liderlik"
+  ]
+}
